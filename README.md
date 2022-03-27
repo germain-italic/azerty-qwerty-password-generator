@@ -21,6 +21,7 @@ Generate passwords that work both on AZERTY and QWERTY keyboards.
 - Based on a function written by [Hugh Lashbrooke](https://hughlashbrooke.com/2012/04/23/simple-way-to-generate-a-random-password-in-php/)
 - From the list compiled by [Jmini](http://docs.jmini.fr/notes/lettres-communes-claviers)
 - Inspired by [Password Generator Plus](https://passwordsgenerator.net/plus/)
+- Favicon from [motokiwo/123rf](https://www.123rf.com/photo_92713170_stock-vector-vector-icon-for-branding-and-identity-illustration-letter-aq-icon-template-vector-illustration-desig.html) (unlicensed with watermark!) and [RealFaviconGenerator](https://realfavicongenerator.net/favicon_result?file_id=p1fv5289fr1neh1pa51hv8hrrab86)
 
 
 ## Todo
